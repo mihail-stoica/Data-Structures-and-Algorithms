@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e65ad62f-91e7-4a48-a98c-ec8c42c5ef2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mihailstoica/datastructures/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/datastructures/LinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mihailstoica/datastructures/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/datastructures/StackTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +48,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/jo/DS&amp;Algo-Java/Data-Structures-and-Algorithms&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/jo/Java_Katas/CodeKatas&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -60,7 +60,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.LinkedListTest">
+  <component name="RunManager" selected="JUnit.StackTest">
     <configuration name="DynamicArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Data-Structures-and-Algorithms" />
       <extension name="coverage">
@@ -72,22 +72,6 @@
       <option name="PACKAGE_NAME" value="datastructures" />
       <option name="MAIN_CLASS_NAME" value="datastructures.DynamicArrayTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DynamicArrayTest.Insert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Data-Structures-and-Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="datastructures.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="datastructures" />
-      <option name="MAIN_CLASS_NAME" value="datastructures.DynamicArrayTest" />
-      <option name="METHOD_NAME" value="Insert" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -139,13 +123,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Data-Structures-and-Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="datastructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="datastructures" />
+      <option name="MAIN_CLASS_NAME" value="datastructures.StackTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StackTest" />
         <item itemvalue="JUnit.LinkedListTest" />
         <item itemvalue="JUnit.LinkedListTest.DeleteVal" />
         <item itemvalue="JUnit.LinkedListTest.AddFront" />
         <item itemvalue="JUnit.DynamicArrayTest" />
-        <item itemvalue="JUnit.DynamicArrayTest.Insert" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +157,8 @@
       <option name="presentableId" value="Default" />
       <updated>1673167668194</updated>
       <workItem from="1673175600955" duration="2930000" />
-      <workItem from="1673431418943" duration="8418000" />
+      <workItem from="1673431418943" duration="11197000" />
+      <workItem from="1673625985298" duration="5592000" />
     </task>
     <servers />
   </component>
